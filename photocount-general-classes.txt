@@ -1,0 +1,60 @@
+person
+car
+bus
+truck
+bicycle
+motorcycle
+boat
+bird
+dog
+cat
+cow
+sheep
+pig
+horse
+chicken
+duck
+fish
+egg
+apple
+orange
+banana
+tomato
+potato
+strawberry
+lemon
+bottle
+can
+cup
+bowl
+cardboard box
+bag
+book
+chair
+tree
+flower
+potted plant
+coin
+screw
+hex nut
+pipe
+wood log
+brick
+tire
+barrel
+pallet
+hard hat
+shoe
+glove
+pen
+battery
+candy
+cookie
+dumpling
+bottle cap
+ball
+cell phone
+umbrella
+traffic cone
+pill
+capsule
